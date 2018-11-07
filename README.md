@@ -1,8 +1,8 @@
-## UNIL MSc course: "Case studies in bioinformatics 2017"  Repository
+## UNIL MSc course: "Case studies in bioinformatics 2018"  Repository
 
-Course materials for [Case studies in bioinformatics 2017: Module 1](https://www2.unil.ch/cbg/index.php?title=Module_1:_Is_the_hourglass_model_for_gene_expression_really_supported_by_the_data%3F) in Lausanne, (Nov. 2017).
+Course materials for [Case studies in bioinformatics 2017: Module 2](https://www2.unil.ch/cbg/index.php?title=Module_1:_Is_the_hourglass_model_for_gene_expression_really_supported_by_the_data%3F) in Lausanne, (Nov. 2017).
 
 **Instructor:** Sven Bergmann 
 
-**Teaching Assistant:** Micha Hersch and Sarvenaz Choobdar
+**Teaching Assistant:** Sarvenaz Choobdar and Anneke Brummer
 
